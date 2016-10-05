@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TrackItem</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Setting</string>
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Antarctica</item>
+        <item>Indonesia</item>
+    </string-array>
+    <string name="text_item" translatable="false">Details Required</string>
+    <string name="country">Country</string>
+    <string name="number">Mobile Number</string>
+    <string name="track_button">TRACK</string>
+    <string name="send" translatable="false">Send</string>
+    <string name="chat" translatable="false">Chat</string>
+    <string name="item_name">%1$s</string>
+<string name="retailer" translatable="true">Amazon India</string>
+    <string name="archive" translatable="true">Archive</string>
+
+</resources>
+
+
